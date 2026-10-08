@@ -1,0 +1,52 @@
+{
+  "publisher": "Quran JSON by Risan / risan/quran-json",
+  "repositoryURL": "https://github.com/risan/quran-json",
+  "projectLicense": "CC BY-SA 4.0",
+  "textSource": "Quranpedia.net KFGQPC Warsh and Qalun dumps; dump versions and original publisher credit retained in UPSTREAM-SOURCES.json",
+  "artifacts": [
+    {
+      "file": "warsh-2026-10-08.json",
+      "sourceURL": "https://quran-json.risanb.com/text/warsh/quran.json",
+      "bytes": 1642537,
+      "sha256": "241c5dc0eb23b72488e92b20dd21379ab39a1025f54e42ea5a0a705a97c18dfa",
+      "contentModified": false,
+      "retrievedDate": "2026-10-08",
+      "publisherPublicationDate": null
+    },
+    {
+      "file": "qalun-2026-10-08.json",
+      "sourceURL": "https://quran-json.risanb.com/text/qalun/quran.json",
+      "bytes": 1637834,
+      "sha256": "7dd55cde59e49863e9862e1530088c0247445937e11da4588298813764c4d71b",
+      "contentModified": false,
+      "retrievedDate": "2026-10-08",
+      "publisherPublicationDate": null
+    },
+    {
+      "file": "UPSTREAM-SOURCES.json",
+      "sourceURL": "https://quran-json.risanb.com/meta/sources.json",
+      "bytes": 110905,
+      "sha256": "5f96b650a5aaa8ebbe2f8337ae4b6d8557f65d3d7c7e7a9a74dde8a48c18db4c",
+      "contentModified": false,
+      "retrievedDate": "2026-10-08",
+      "publisherPublicationDate": null
+    },
+    {
+      "file": "UPSTREAM-MANIFEST.json",
+      "sourceURL": "https://quran-json.risanb.com/manifest.json",
+      "bytes": 22997,
+      "sha256": "febad7c18d81faff92efa7bb46eddccc209aa669443229fd7301a5ae28699a68",
+      "contentModified": false,
+      "retrievedDate": "2026-10-08",
+      "publisherPublicationDate": null
+    },
+    {
+      "file": "LICENSE.txt",
+      "sourceURL": "https://raw.githubusercontent.com/risan/quran-json/main/LICENSE.txt",
+      "bytes": 20131,
+      "sha256": "7abe19ec9bb73b36141b999b861d24ad855e808bafe0f81e84cce28556f6c297",
+      "contentModified": false,
+      "retrievedDate": "2026-10-08"
+    }
+  ]
+}
